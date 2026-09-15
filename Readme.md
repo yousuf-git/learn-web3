@@ -1,4 +1,50 @@
-# learn web3 with me
+<div align="center">
+
+<img src="public/images/learn-web-3-thumbnail.png" alt="Learn Web3 With Me: my personal web3 learning log with roadmap" width="100%" />
+
+<h1>Learn Web3 With Me</h1>
+
+<p>
+  <strong>Real code. Real progress. In public.</strong><br/>
+  <sub>Smart contracts, blockchains, tokens, DeFi and dApps, where every file doubles as a study note.</sub>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-0.8.37-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity 0.8.37" />
+  <img src="https://img.shields.io/badge/learning-in%20public-7B3FE4?style=flat-square" alt="Learning in public" />
+</p>
+
+<p><sub><b>BUILDING WITH</b></sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Remix_IDE-2B2B2B?style=for-the-badge" alt="Remix IDE" />
+</p>
+
+<p><sub><b>ON THE ROADMAP</b></sub></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Foundry-2B2B2B?style=for-the-badge" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink" />
+  <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" alt="ethers.js" />
+  <img src="https://img.shields.io/badge/viem-2B2B2B?style=for-the-badge" alt="viem" />
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge&logo=wagmi&logoColor=white" alt="Wagmi" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge" alt="MetaMask" />
+</p>
+
+<p>
+  <a href="QUICK_SYNTAX_GUIDE.md">Syntax Guide</a> &middot;
+  <a href="Will/Will.sol">First Contract</a> &middot;
+  <a href="#roadmap">Roadmap</a> &middot;
+  <a href="#glossary">Glossary</a>
+</p>
+
+</div>
+
+---
 
 Hellooooooooo!
 
@@ -90,6 +136,8 @@ A map of everything in the repo. Start at the top if you're new.
 learn-web3/
 ├── Readme.md               ← you are here
 ├── QUICK_SYNTAX_GUIDE.md   ← Solidity syntax reference
+├── public/
+│   └── images/             ← README and docs images
 └── Will/
     └── Will.sol            ← project 1: inheritance "dead man's switch"
 ```
